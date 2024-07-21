@@ -1,4 +1,4 @@
-```pip install python-jose```
+```pip install python-jose[cryptography]```
 
 21.07.2024 Working JWT Bomb
 
